@@ -1,4 +1,4 @@
-This project predicts number <br>
+This project predicts number <br><br>
 1.png >>>  Model predicts it as 7, because of the straight line similar with 7 <br>
 2.png >>>  Model predicts it as 2, down side may help it in prediction <br>
 3.png >>>  Model predicts it as 3, may be the curves of number 3 help it in prediction <br>
